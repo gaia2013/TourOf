@@ -5,6 +5,6 @@ import (
   "math"
 )
 
-func mani() {
+func main() {
   fmt.Println(math.Pi)
 }
