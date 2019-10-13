@@ -4,7 +4,7 @@ package main
 
 import "fmt"
 
-func add(x int, y int) int {
+func add(x int, y int) int { // 変数名の 後ろ に型名を書く
   return x + y
 }
 
